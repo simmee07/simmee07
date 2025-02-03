@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simmi.
 - 👀 I’m interested in web development~
-- 🌱 I’m currently learning web development, java
+- 🌱 I’m currently learning web development, python.
 - ⚡ Fun fact: I have many hobbies. I can draw, write, crochet. I also love to watch animes and explore new music genres.'
 - I own a small crochet business too!! 
 

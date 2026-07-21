@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simmi.
 - 👀 I’m interested in data analyst roles.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Power BI
 - ⚡ Fun fact: I have many hobbies. I can draw, write, crochet. I also love to watch animes and explore new music genres.
 - I own a small crochet business too✨!! 
 
